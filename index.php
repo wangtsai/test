@@ -4,4 +4,6 @@
 
 echo 'test';
 
+var $num = 5;
+
 ?>
