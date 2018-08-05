@@ -4,4 +4,8 @@
 
 echo 'test';
 
+var $Name = 'marry';
+
+echo $Name;
+
 ?>
