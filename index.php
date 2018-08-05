@@ -5,5 +5,6 @@
 echo 'test';
 
 var $num = 5;
+echo $num;
 
 ?>
