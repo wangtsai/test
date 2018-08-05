@@ -2,4 +2,6 @@
 
 //test php
 
+echo 'test';
+
 ?>
